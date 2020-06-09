@@ -1,0 +1,13 @@
+#dependencies
+/node_modules
+
+#dev
+/.cache
+/development
+
+#prod
+/dist
+
+#misc
+.DS_Store
+.env
