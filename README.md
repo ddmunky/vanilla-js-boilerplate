@@ -2,7 +2,7 @@
 
 Simple Vanilla JS Boilerplate with Babel and Sass
 
-# Usage
+## Usage
 
 Install dependencies
 
